@@ -71,18 +71,6 @@ The Power BI analysis explores:
 | Optimization | Week 7 | Test, tune, and refine the solution |
 | Delivery | Week 8 | Present the solution and complete handoff |
 
-## Repository Structure
-
-```text
-rickmore-retail-big-data-project/
-├── README.md
-├── presentation/
-│   └── Rickmore_Retail_Big_Data_Architecture.pptx
-├── docs/
-│   └── project-summary.md
-├── assets/
-└── .gitignore
-```
 
 ## Technologies
 
