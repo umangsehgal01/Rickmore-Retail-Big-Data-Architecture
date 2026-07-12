@@ -110,9 +110,10 @@ rickmore-retail-big-data-project/
 - **Institution:** Conestoga College
 - **Term:** Summer 2025
 
-## Presentation
 
-The complete project presentation is available in the [`presentation`](presentation/) folder.
+## 📄 Project Report
+
+[View Project Report](./Rickmore_Retail_Big_Data_Architecture.pdf)
 
 ## References
 
